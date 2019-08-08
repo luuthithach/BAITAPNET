@@ -1,0 +1,7 @@
+D:\BÀI TÂP NET\net1\danhsachcomment\danhsachcomment\obj\Debug\danhsachcomment.csprojResolveAssemblyReference.cache
+D:\BAITAPNET\net1\bt2\danhsachcomment\obj\Debug\danhsachcomment.csprojResolveAssemblyReference.cache
+D:\BAITAPNET\net1\bt2\danhsachcomment\bin\danhsachcomment.dll.config
+D:\BAITAPNET\net1\bt2\danhsachcomment\bin\danhsachcomment.dll
+D:\BAITAPNET\net1\bt2\danhsachcomment\bin\danhsachcomment.pdb
+D:\BAITAPNET\net1\bt2\danhsachcomment\obj\Debug\danhsachcomment.dll
+D:\BAITAPNET\net1\bt2\danhsachcomment\obj\Debug\danhsachcomment.pdb

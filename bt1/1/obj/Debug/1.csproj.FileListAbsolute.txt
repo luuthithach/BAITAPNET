@@ -1,0 +1,6 @@
+D:\BÀI TÂP NET\net1\1\1\bin\1.dll.config
+D:\BÀI TÂP NET\net1\1\1\bin\1.dll
+D:\BÀI TÂP NET\net1\1\1\bin\1.pdb
+D:\BÀI TÂP NET\net1\1\1\obj\Debug\1.csprojResolveAssemblyReference.cache
+D:\BÀI TÂP NET\net1\1\1\obj\Debug\1.dll
+D:\BÀI TÂP NET\net1\1\1\obj\Debug\1.pdb

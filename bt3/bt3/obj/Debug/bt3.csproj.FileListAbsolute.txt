@@ -1,0 +1,6 @@
+D:\BAITAPNET\net1\bt3\bt3\bin\bt3.dll.config
+D:\BAITAPNET\net1\bt3\bt3\bin\bt3.dll
+D:\BAITAPNET\net1\bt3\bt3\bin\bt3.pdb
+D:\BAITAPNET\net1\bt3\bt3\obj\Debug\bt3.csprojResolveAssemblyReference.cache
+D:\BAITAPNET\net1\bt3\bt3\obj\Debug\bt3.dll
+D:\BAITAPNET\net1\bt3\bt3\obj\Debug\bt3.pdb
