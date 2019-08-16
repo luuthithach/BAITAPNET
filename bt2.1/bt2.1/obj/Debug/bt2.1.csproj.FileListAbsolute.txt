@@ -1,0 +1,6 @@
+D:\BAITAPNET\net1\bt2.1\bt2.1\bin\bt2.1.dll.config
+D:\BAITAPNET\net1\bt2.1\bt2.1\bin\bt2.1.dll
+D:\BAITAPNET\net1\bt2.1\bt2.1\bin\bt2.1.pdb
+D:\BAITAPNET\net1\bt2.1\bt2.1\obj\Debug\bt2.1.dll
+D:\BAITAPNET\net1\bt2.1\bt2.1\obj\Debug\bt2.1.pdb
+D:\BAITAPNET\net1\bt2.1\bt2.1\obj\Debug\bt2.1.csprojResolveAssemblyReference.cache
