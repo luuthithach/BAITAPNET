@@ -1,0 +1,6 @@
+D:\BAITAPNET\net1\thach\thach\bin\thach.dll.config
+D:\BAITAPNET\net1\thach\thach\bin\thach.dll
+D:\BAITAPNET\net1\thach\thach\bin\thach.pdb
+D:\BAITAPNET\net1\thach\thach\obj\Debug\thach.dll
+D:\BAITAPNET\net1\thach\thach\obj\Debug\thach.pdb
+D:\BAITAPNET\net1\thach\thach\obj\Debug\thach.csprojResolveAssemblyReference.cache
