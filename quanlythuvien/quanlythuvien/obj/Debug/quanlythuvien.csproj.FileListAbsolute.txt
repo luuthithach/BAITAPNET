@@ -1,0 +1,6 @@
+D:\đề tài\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.csprojResolveAssemblyReference.cache
+D:\đề tài\quanlythuvien\quanlythuvien\bin\quanlythuvien.dll.config
+D:\đề tài\quanlythuvien\quanlythuvien\bin\quanlythuvien.dll
+D:\đề tài\quanlythuvien\quanlythuvien\bin\quanlythuvien.pdb
+D:\đề tài\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.dll
+D:\đề tài\quanlythuvien\quanlythuvien\obj\Debug\quanlythuvien.pdb
