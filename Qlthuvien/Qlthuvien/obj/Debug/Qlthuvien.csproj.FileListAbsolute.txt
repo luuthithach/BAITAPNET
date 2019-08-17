@@ -1,0 +1,6 @@
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\obj\Debug\Qlthuvien.csprojResolveAssemblyReference.cache
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\bin\Qlthuvien.dll.config
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\bin\Qlthuvien.dll
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\bin\Qlthuvien.pdb
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\obj\Debug\Qlthuvien.dll
+D:\BAITAPNET\net1\Qlthuvien\Qlthuvien\obj\Debug\Qlthuvien.pdb
