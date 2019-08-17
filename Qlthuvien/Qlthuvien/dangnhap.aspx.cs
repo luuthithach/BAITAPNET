@@ -21,12 +21,12 @@ namespace Qlthuvien
 
         protected void btnDangnhap_Click(object sender, EventArgs e)
         {
-            dangnhap cn = new dangnhap();
-            bool kq = cn (txtDangNhap.Text, txtMatKhau.Text);
+            chucnang cn = new chucnang();
+            bool kq = cn.DangNhap (txtDangNhap.Text, txtMatKhau.Text);
             if (kq)
             {
                 Session["Manv"] = txtDangNhap;
-                Response.Redirect("trangChu.aspx");
+                Response.Redirect("trangchu.aspx");
             }
             else
             {

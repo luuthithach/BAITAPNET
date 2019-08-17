@@ -66,6 +66,7 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="chucnang.cs" />
     <Compile Include="dangky.aspx.cs">
       <DependentUpon>dangky.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -109,7 +110,6 @@
     <Compile Include="trangchu.aspx.designer.cs">
       <DependentUpon>trangchu.aspx</DependentUpon>
     </Compile>
-    <Compile Include="trangchu.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Web.Debug.config">

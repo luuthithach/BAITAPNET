@@ -9,7 +9,7 @@ namespace Qlthuvien
 {
     public partial class dangky : System.Web.UI.Page
     {
-        trangchu cn = new trangchu();
+       chucnang cn = new chucnang();
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)
@@ -69,7 +69,7 @@ namespace Qlthuvien
 
         protected void btnDangKy_Click(object sender, EventArgs e)
         {
-            cn = new trangchu();
+            cn = new chucnang();
             {
                 lblThongBao.Text = "Tác Giả này đã có";
 
